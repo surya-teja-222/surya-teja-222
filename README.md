@@ -64,3 +64,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
 </div>
+
+
+---
+
+### :fire: My Stats :
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surya-teja-222&date_format=M%20j%5B%2C%20Y%5D)
+
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-teja-222&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-teja-222&layout=compact)
+
