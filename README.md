@@ -24,8 +24,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a 2nd year student in India and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on HackerRank, CodeChef etc.
+- :telescope: I’m a 3rd year student in India and contributing to frontend and backend for building web applications.
+- :zap: In my free time, I solve problems on [CodeChef](https://www.codechef.com/users/suryateja222), [LeetCode](https://leetcode.com/suryateja222/) etc.
 - :computer: I love to code and solve problems.
 - :sparkles: I love to learn new things.
 - :rocket: I love to solve problems and build web applications.
@@ -76,3 +76,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-teja-222&layout=compact)
 
+---
+
+Last Updated: 2022 Dec
