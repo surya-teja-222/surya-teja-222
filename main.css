@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap");
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+}
+
+html {
+	/* cretae a gradient */
+	background: linear-gradient(
+		to bottom,
+		hsl(235, 15%, 14%),
+		hsl(272, 21%, 14%)
+	);
+}
+
+@layer components {
+	html {
+		@apply font-red-hat-text;
+	}
+}
+
+main {
+	height: 75%;
+	background-image: url(images/bg-stars.svg);
+}
+
+body {
+	overflow-x: clip;
+}
+
+footer {
+	height: 25%;
+	background-image: url(images/pattern-hills.svg);
+}
+
+@media (max-width: 768px) {
+	footer {
+		background-position-x: calc(-709px);
+		background-repeat: no-repeat;
+	}
+}
+
+.fb-out:hover .fb {
+	transition: all ease-in-out 0.2s;
+}
+
+@layer components {
+	.card {
+		@apply bg-dark-desaturated-blue rounded-[0.5rem] shadow-2xl shadow-very-dark-black-blue h-[100%] my-auto;
+	}
+}
+
+.propq {
+	@apply text-soft-red md:text-[64px] mdm:text-[42px] font-bold;
+}
+
+.dot-left {
+	@apply absolute bg-very-dark-black-blue md:h-[14px] md:w-[9px] mdm:h-[7px]  mdm:w-[4.5px]   rounded-r-full md:translate-y-[41px] mdm:translate-y-[30px];
+}
+
+.dot-right {
+	@apply absolute bg-very-dark-black-blue md:h-[14px] md:w-[9px] mdm:h-[7px]  mdm:w-[4.5px] rounded-l-full;
+}
