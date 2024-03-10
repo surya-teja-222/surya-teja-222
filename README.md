@@ -12,7 +12,6 @@
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
     </div>  
-    <img src="https://komarev.com/ghpvc/?username=surya-teja-222&style=flat-square&color=blue" alt=""/>
     <h1>
         hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,7 +27,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a 3rd year student in India and contributing to frontend and backend for building web applications.
+- :telescope: I’m a final year student in India and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems on [CodeChef](https://www.codechef.com/users/suryateja222), [LeetCode](https://leetcode.com/suryateja222/) etc.
 - :computer: I love to code and solve problems.
 - :sparkles: I love to learn new things.
@@ -74,9 +73,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
+<!--
+Commenting these for now
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surya-teja-222&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-teja-222&show_icons=true&theme=radical)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-teja-222&layout=compact)
 
