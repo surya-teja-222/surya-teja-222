@@ -82,4 +82,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-Last Updated: 2022 Dec
+
+> [!NOTE]
+> Some Information might be outdated, refer to my linkedIn / Resume to see what I am into recently
+
