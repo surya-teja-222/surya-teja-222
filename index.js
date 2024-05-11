@@ -1,5 +1,5 @@
 
-var date = new Date("01 Jan, 2024");
+var date = new Date("01 July, 2024");
 function hmm(){
     // ge
     
