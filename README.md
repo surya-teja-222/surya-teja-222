@@ -17,6 +17,8 @@
 
 -   📄 Know about my experiences [here (Resume)](https://drive.google.com/file/d/1kr9goxLmGpOiTesDXejjkJOppIo6WSJp/view?usp=sharing)
 
+-   🧑‍🍳 Currently Cooking [this](https://suryaa-codes.vercel.app/), Stay Tuned! 😉
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/suryateja222" target="blank">
