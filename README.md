@@ -23,21 +23,22 @@
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="suryateja222"
-            height="30"
+            height="40"
             width="40"
         />
     </a>
     <a href="https://www.codechef.com/users/suryateja222" target="blank">
     <img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Code Chef - suryateja222" height="30"
+            src="https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/618/original/Codechef_icon.jpg" alt="Code Chef - suryateja222" height="40"
             width="40" />
     </a>
     <a href="https://www.leetcode.com/suryateja222" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="suryateja222" height="30" width="40" /></a>
+            alt="suryateja222" height="40" width="40" /></a>
 </p>
 
 ### 🛠️  Languages and Tools :
+
 
 <div id="frameworks">
     <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
