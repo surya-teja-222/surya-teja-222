@@ -15,7 +15,7 @@
 
 -   📫 How to reach me **<suryatejareddy222@gmail.com>**
 
--   📄 Know about my experiences [here (Resume)](https://drive.google.com/file/d/1kr9goxLmGpOiTesDXejjkJOppIo6WSJp/view?usp=sharing)
+-   📄 Know about my experiences [here (Resume)](https://suryaa-codes.vercel.app/resume)
 
 -   🧑‍🍳 Currently Cooking [this](https://suryaa-codes.vercel.app/), Stay Tuned! 😉
 
