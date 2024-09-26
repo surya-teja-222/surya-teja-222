@@ -68,13 +68,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 681.9 kB Used in GitHub's Storage 
+> 📦 681.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 233 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -107,15 +109,14 @@ Sunday                   75 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        ████████████████████░░░░░   80.45 % 
-SCSS                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript               11 mins             █████████████████████████   99.32 % 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +132,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2024 18:42:24 UTC
+ Last Updated on 26/09/2024 18:41:48 UTC
 <!--END_SECTION:waka-->
 
 ---
