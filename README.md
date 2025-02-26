@@ -13,8 +13,6 @@
 
 -   💬 Ask me about **React, Next, Ruby**
 
--   📫 How to reach me **<suryatejareddy222@gmail.com>**
-
 -   📄 Know about my experiences [here (Resume)](https://suryaa-codes.vercel.app/resume)
 
 -   🧑‍🍳 Currently Cooking [this](https://suryaa-codes.vercel.app/), Stay Tuned! 😉
