@@ -66,7 +66,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,13 +107,17 @@ Sunday                   75 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     1 hr 38 mins        ██████████████████░░░░░░░   73.89 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +133,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 18:47:02 UTC
+ Last Updated on 07/10/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 ---
