@@ -107,13 +107,13 @@ Sunday                   75 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +129,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2025 18:47:18 UTC
+ Last Updated on 17/10/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
 
 ---
