@@ -74,7 +74,7 @@
 
 > 📦 682.6 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -107,17 +107,13 @@ Sunday                   75 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       █████████████████░░░░░░░░   69.23 % 
-Bash                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +129,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:49:55 UTC
+ Last Updated on 01/01/2026 18:50:25 UTC
 <!--END_SECTION:waka-->
 
 ---
