@@ -66,15 +66,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C035%20hrs%2015%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 690.6 kB Used in GitHub's Storage 
+> 📦 690.9 kB Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,60 +80,20 @@
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                268 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌆 Daytime                419 commits         █████████░░░░░░░░░░░░░░░░   36.95 % 
-🌃 Evening                437 commits         ██████████░░░░░░░░░░░░░░░   38.54 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Tuesday                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Wednesday                205 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Thursday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Friday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   10 hrs 30 mins      ██████████████░░░░░░░░░░░   56.03 % 
-Markdown                 4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-
-🔥 Editors: 
-Claude Code              14 hrs 6 mins       ███████████████████░░░░░░   75.26 % 
-VS Code                  4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Mac                      18 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 20:32:21 UTC
+ Last Updated on 28/05/2026 20:41:38 UTC
 <!--END_SECTION:waka-->
 
 ---
