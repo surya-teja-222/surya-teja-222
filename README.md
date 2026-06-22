@@ -1,21 +1,24 @@
 > [!TIP]
-> Looking For my work Github ? [Check Here To take a Look ->](https://github.com/suryateja-7)
+> Looking for my work GitHub? [Take a look here →](https://github.com/suryateja-7)
 
 
 <h1 align="center">Hi 👋, I'm Surya Teja Reddy</h1>
-<h3 align="center">A passionate frontend developer from India, Currently Looking for Full Time Opportunities</h3>
+<h3 align="center">SDE2 on the founding team at Scaler AI Labs — building RL environments, evals & AI infra from Bengaluru 🇮🇳</h3>
+
+<p align="center">
+    <a href="https://itssurya.com" target="blank">🌐 itssurya.com</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-teja-222&label=Profile%20views&color=0e75b6&style=flat" alt="surya-teja-222" /> </p>
 
--   🔭 I’m currently working at **Scaler** as a **FullStack Developer** using React & Ruby 🔥
+-   🔭 I’m currently on the **founding team at Scaler AI Labs**, building **RL environments** for computer-use agents (single & multi-agent), authoring **SWE-Bench / Terminal-Bench** evals, and the **data pipelines + internal AI tools** the research team runs on 🔥
 
--   🌱 I’m currently learning & Building with **Prisma, NextAuth, AWS**
+-   🤖 Before this I built **realtime AI voice agents** (`<800ms`, 15+ concurrent calls), an in-house **CRM** that retired a ₹5.4 Cr vendor, and a **call-intelligence pipeline** auditing 10K+ calls/mo
 
--   💬 Ask me about **React, Next, Ruby**
+-   💬 Ask me about **RL & agent systems, realtime / low-latency infra, search at scale, and building full-stack products**
 
--   📄 Know about my experiences [here (Resume)](https://suryaa-codes.vercel.app/resume)
+-   📄 More about me → [itssurya.com](https://itssurya.com) · [Résumé](https://drive.google.com/uc?export=download&id=1L8aAJTZd48JKFa-fypYdiR7vG4X_Wtwu)
 
--   🧑‍🍳 Currently Cooking [this](https://suryaa-codes.vercel.app/), Stay Tuned! 😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,42 +30,42 @@
             width="40"
         />
     </a>
-    <a href="https://www.codechef.com/users/suryateja222" target="blank">
-    <img align="center"
-            src="https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/073/618/original/Codechef_icon.jpg" alt="Code Chef - suryateja222" height="40"
-            width="40" />
-    </a>
-    <a href="https://www.leetcode.com/suryateja222" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="suryateja222" height="40" width="40" /></a>
 </p>
 
 ### 🛠️  Languages and Tools :
 
+**🤖 Generative AI & Agents:** Gemini · OpenAI · Anthropic · Computer-use agents · RL (PPO / GRPO) · LangChain · Deepgram (ASR) · ElevenLabs (TTS)
 
-<div id="frameworks">
-    <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/tailwindcss.svg" title="tailwindcss" alt="tailwindcss" width="50" height="50"  />&nbsp;&nbsp;
-</div>
-
-
-<div id="languages-oops" >
-    <img src="icons_readme/javascript.svg" title="javascript" alt="javascript" width="50" height="50"  />&nbsp;&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"  />&nbsp;&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
+<div id="languages">
+    <img src="icons_readme/python.svg" title="Python" alt="python" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/javascript.svg" title="JavaScript" alt="javascript" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" alt="ruby" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/cpp.svg" title="C++" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/html5.svg" title="HTML5" alt="html5" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/css3.svg" title="CSS3" alt="CSS3" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/python.svg" title="Python" alt="python" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/cpp.svg" title="cpp" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
 </div>
 
-<div id="languages-dbs">
-    <img src="icons_readme/mongodb.svg" title="Mongodb" alt="Mongodb" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/mysql.svg" title="MySql" alt="Mysql" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="50" height="50"  />&nbsp;&nbsp;
+<div id="frameworks">
+    <img src="icons_readme/react.svg" title="React" alt="react" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/nextjs.svg" title="Next.js" alt="next" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="fastapi" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="rails" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/tailwindcss.svg" title="TailwindCSS" alt="tailwindcss" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="graphql" width="50" height="50"  />&nbsp;&nbsp;
+</div>
 
+<div id="infra-and-dbs">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/mongodb.svg" title="MongoDB" alt="Mongodb" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/mysql.svg" title="MySQL" alt="Mysql" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="redis" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch / OpenSearch" alt="elasticsearch" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="kafka" width="50" height="50"  />&nbsp;&nbsp;
+</div>
 
 
 <!--START_SECTION:waka-->
@@ -141,4 +144,4 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 > [!NOTE]
-> Some Information might be outdated, refer to my linkedIn / Resume to see what I am into recently
+> Some details here may lag behind reality — [itssurya.com](https://itssurya.com) is always the freshest source on what I'm building.
