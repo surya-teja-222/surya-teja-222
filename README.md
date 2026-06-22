@@ -19,6 +19,9 @@
 -   📄 More about me → [itssurya.com](https://itssurya.com) · [Résumé](https://drive.google.com/uc?export=download&id=1L8aAJTZd48JKFa-fypYdiR7vG4X_Wtwu)
 
 
+<details>
+<summary>📊 Coding stats</summary>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2050%20mins-blue?style=flat)
@@ -91,6 +94,8 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 21/06/2026 20:10:41 UTC
 <!--END_SECTION:waka-->
+
+</details>
 
 ---
 
