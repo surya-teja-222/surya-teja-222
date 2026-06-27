@@ -1,5 +1,5 @@
 > [!TIP]
-> Looking for my work GitHub? [Take a look here →](https://github.com/suryateja-7)
+> Looking for my work GitHub? [Take a look here](https://github.com/suryateja-7)
 
 
 <h1 align="center">Hi 👋, I'm Surya Teja Reddy</h1>
@@ -16,7 +16,7 @@
 
 -   💬 Ask me about **RL & agent systems, realtime / low-latency infra, search at scale, and building full-stack products**
 
--   📄 More about me → [itssurya.com](https://itssurya.com) · [Résumé](https://drive.google.com/uc?export=download&id=1L8aAJTZd48JKFa-fypYdiR7vG4X_Wtwu)
+-   📄 More about me: [itssurya.com](https://itssurya.com) · [Résumé](https://drive.google.com/uc?export=download&id=1L8aAJTZd48JKFa-fypYdiR7vG4X_Wtwu)
 
 
 <details>
