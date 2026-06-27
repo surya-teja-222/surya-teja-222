@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Surya Teja Reddy</h1>
-<h3 align="center">SDE2 on the founding team at Scaler AI Labs — building RL environments, evals & AI infra from Bengaluru 🇮🇳</h3>
+<h3 align="center">SDE2 on the founding team at Scaler AI Labs - building RL environments, evals & AI infra from Bengaluru 🇮🇳</h3>
 
 <p align="center">
     <a href="https://itssurya.com" target="blank">🌐 itssurya.com</a>
