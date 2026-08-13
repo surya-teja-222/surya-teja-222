@@ -24,9 +24,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C193%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C199%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-577%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-582%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -34,7 +34,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 326 Contributions in the Year 2026
+> 🏆 327 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,41 +67,46 @@ Sunday                   75 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
-Markdown                 4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-SQL                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TypeScript               8 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
+Markdown                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Python                   2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 5 mins       █████████████████████░░░░   84.30 % 
-VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Claude Code              18 hrs 51 mins      █████████████████████░░░░   83.14 % 
+VS Code                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      16 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 1 min (95.82%)
+⏱ AI Coding Time: 21 hrs 38 mins (95.43%)
 
-✍️ 18,367 lines written by AI, 32 lines written by hand (99.83% AI-written)
+✍️ 22,994 lines written by AI, 73 lines written by hand (99.68% AI-written)
 
-🔤 4,723,083 Input Tokens, 1,109,590 Output Tokens
+🔤 7,610,770 Input Tokens, 1,585,314 Output Tokens
 
-💵 $429.98 Estimated AI Cost This Week
+💵 $593.59 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 201 AI Prompts
+🧠 25 AI Sessions, 291 AI Prompts
 
-Fable                    18,721 lines        █████████████████████████   100.00 % 
+Fable                    21,850 lines        ███████████████████████░░   93.16 % 
+Opus                     1,604 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 639 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📄 Detailed Prompter — average 518 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +122,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:35:14 UTC
+ Last Updated on 13/08/2026 19:33:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
