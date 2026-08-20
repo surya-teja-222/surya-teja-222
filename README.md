@@ -34,7 +34,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 329 Contributions in the Year 2026
+> 🏆 336 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,47 +67,42 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.93 % 
-Python                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Markdown                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+TypeScript               51 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Other                    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+CSV                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Python                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 56 mins       ███████████████████░░░░░░   77.73 % 
-VS Code                  1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              2 hrs 10 mins       ██████████████████░░░░░░░   73.41 % 
+VS Code                  47 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 18 mins (93.07%)
+⏱ AI Coding Time: 2 hrs 41 mins (90.5%)
 
-✍️ 4,907 lines written by AI, 96 lines written by hand (98.08% AI-written)
+✍️ 280 lines written by AI, 55 lines written by hand (83.58% AI-written)
 
-🔤 5,617,734 Input Tokens, 584,063 Output Tokens
+🔤 2,724,660 Input Tokens, 107,488 Output Tokens
 
-💵 $217.47 Estimated AI Cost This Week
+💵 $52.42 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 136 AI Prompts
+🧠 9 AI Sessions, 44 AI Prompts
 
-Fable                    3,129 lines         ████████████████░░░░░░░░░   62.41 % 
-Opus                     1,884 lines         █████████░░░░░░░░░░░░░░░░   37.57 % 
-Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     280 lines           █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.08% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.05% of changed lines were hand-edited
+🤖 AI-Driven — 83.58% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +118,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:01:42 UTC
+ Last Updated on 20/08/2026 19:10:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
