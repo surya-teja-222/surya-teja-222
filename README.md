@@ -67,40 +67,37 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.20 % 
-TypeScript               57 mins             ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-Gosu                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other                    54 mins             █████████████░░░░░░░░░░░░   50.98 % 
+TypeScript               42 mins             ██████████░░░░░░░░░░░░░░░   39.38 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 56 mins       ███████████████████████░░   90.57 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Claude Code              1 hr 46 mins        █████████████████████████   99.01 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (99.19%)
+⏱ AI Coding Time: 1 hr 47 mins (100.0%)
 
 ✍️ 837 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,022,250 Input Tokens, 325,778 Output Tokens
+🔤 414,609 Input Tokens, 156,434 Output Tokens
 
-💵 $45.73 Estimated AI Cost This Week
+💵 $17.42 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 24 AI Prompts
+🧠 6 AI Sessions, 15 AI Prompts
 
 Opus                     837 lines           █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 215 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 228 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -117,7 +114,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:24:32 UTC
+ Last Updated on 28/08/2026 02:15:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
