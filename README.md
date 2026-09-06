@@ -24,9 +24,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-590%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,19 +67,41 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               56 mins             ███████████░░░░░░░░░░░░░░   42.07 % 
+CSS                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+HTML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                1 hr 54 mins        █████████████████████░░░░   85.18 % 
+VS Code                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 5 mins (93.52%)
+
+✍️ 337 lines written by AI, 1 lines written by hand (99.7% AI-written)
+
+🔤 1,067,406 Input Tokens, 162,440 Output Tokens
+
+💵 $46.19 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 13 AI Prompts
+
+GPT                      353 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +117,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:32:37 UTC
+ Last Updated on 06/09/2026 20:36:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
