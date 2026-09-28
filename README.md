@@ -34,13 +34,13 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 398 Contributions in the Year 2026
+> 🏆 409 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -67,44 +67,44 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
-Python                   1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-HCL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Python                   5 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
+Other                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+HCL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 17 mins       ██████████████████░░░░░░░   72.65 % 
-Codex Vscode             1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              8 hrs 9 mins        ██████████████████░░░░░░░   71.55 % 
+Codex Vscode             2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 8 mins (98.09%)
+⏱ AI Coding Time: 11 hrs 17 mins (99.14%)
 
-✍️ 1,397 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,035 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 3,838,576 Input Tokens, 919,356 Output Tokens
+🔤 4,370,786 Input Tokens, 1,325,859 Output Tokens
 
-💵 $227.03 Estimated AI Cost This Week
+💵 $310.75 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 162 AI Prompts
+🧠 20 AI Sessions, 202 AI Prompts
 
-Fable                    792 lines           ██████████████░░░░░░░░░░░   56.05 % 
-Opus                     317 lines           ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-GPT                      304 lines           █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,745 lines         ██████████████████░░░░░░░   73.42 % 
+Opus                     1,285 lines         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Codex-Vscode             71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,541 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,226 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:31:00 UTC
+ Last Updated on 28/09/2026 23:26:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
