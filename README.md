@@ -24,9 +24,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C248%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C251%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-640%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-644%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -67,46 +67,46 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-TypeScript               2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Markdown                 2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TOML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+TypeScript               2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Python                   2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.37 % 
-Codex CLI                2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-VS Code                  2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Codex Vscode             1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Claude Code              5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.35 % 
+Codex Vscode             3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Codex CLI                3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+VS Code                  2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 
 💻 Operating System: 
-Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 10 mins (83.96%)
+⏱ AI Coding Time: 13 hrs 6 mins (86.89%)
 
-✍️ 5,957 lines written by AI, 59 lines written by hand (99.02% AI-written)
+✍️ 7,531 lines written by AI, 59 lines written by hand (99.22% AI-written)
 
-🔤 4,851,343 Input Tokens, 874,925 Output Tokens
+🔤 6,458,113 Input Tokens, 1,107,196 Output Tokens
 
-💵 $75.53 Estimated AI Cost This Week
+💵 $90.54 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 147 AI Prompts
+🧠 49 AI Sessions, 165 AI Prompts
 
-Opus                     3,750 lines         ███████████████░░░░░░░░░░   61.72 % 
-Fable                    1,735 lines         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-GPT                      581 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Opus                     3,750 lines         ████████████░░░░░░░░░░░░░   49.02 % 
+GPT                      2,139 lines         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Fable                    1,751 lines         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 1,584 characters per prompt
+🤖 AI-Driven — 99.22% of written lines came from AI
+📄 Detailed Prompter — average 1,471 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.65% of changed lines were hand-edited
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +122,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:30:20 UTC
+ Last Updated on 09/10/2026 22:48:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
