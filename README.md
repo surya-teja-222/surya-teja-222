@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-650%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-650%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,36 +67,39 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 28 mins             █████████████████████░░░░   85.55 % 
-Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Other                    1 hr 18 mins        █████████████░░░░░░░░░░░░   51.68 % 
+Markdown                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Python                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 
 🔥 Editors: 
-Claude Code              33 mins             █████████████████████████   100.00 % 
+Claude Code              2 hrs 4 mins        ████████████████████░░░░░   81.81 % 
+Codex Vscode             27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 31 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 287 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,360,525 Input Tokens, 31,920 Output Tokens
+🔤 996,722 Input Tokens, 143,433 Output Tokens
 
-💵 $10.74 Estimated AI Cost This Week
+💵 $12.06 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 13 AI Sessions, 27 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     287 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 10 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 805 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +115,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:34:41 UTC
+ Last Updated on 24/10/2026 21:02:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
