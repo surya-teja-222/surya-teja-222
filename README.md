@@ -24,9 +24,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C257%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-650%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-651%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,36 +67,36 @@ Sunday                   75 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    43 mins             ██████████████████░░░░░░░   72.35 % 
-TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Other                    58 mins             ███████████████████░░░░░░   77.96 % 
+TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-Claude Code              1 hr                █████████████████████████   100.00 % 
+Claude Code              1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
+⏱ AI Coding Time: 1 hr 15 mins (100.0%)
 
 ✍️ 269 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 811,569 Input Tokens, 53,707 Output Tokens
+🔤 860,878 Input Tokens, 70,047 Output Tokens
 
-💵 $6.07 Estimated AI Cost This Week
+💵 $6.95 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 13 AI Prompts
+🧠 12 AI Sessions, 18 AI Prompts
 
 Opus                     269 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,183 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 889 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:49:43 UTC
+ Last Updated on 27/10/2026 22:29:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
